@@ -6,6 +6,7 @@ Nato nel 2012 dalla fusione del Dipartimento di Economia con gruppi di studiosi 
 
 OBIETTIVI:
 Creare differenti topic in base agli argomenti trattati
+
 Classificare le pubblicazioni nei rispettivi topic
 Effettuare un’infografica per visualizzare il risultato della classificazione
 Permettere la ricerca delle pubblicazioni tramite nome dell’autore o titolo
